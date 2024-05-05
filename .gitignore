@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+=======
+# Ignore node_modules directory
+>>>>>>> b86de3c263c7ba771775b5c886567ad55f1b80d3
 node_modules/
